@@ -123,9 +123,9 @@ The following official documentation and learning resources were consulted durin
 
 ---
 
-## Demonstration Video
+### Demonstration Video
 
-**YouTube Demonstration:** To be added after uploading the Part 3 demonstration video.
+[Watch the Chef's Menu Manager demonstration](https://youtu.be/aU8fg-XMCkw)
 
 ---
 
